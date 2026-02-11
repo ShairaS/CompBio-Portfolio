@@ -8,5 +8,5 @@ Skills demonstrated include:
 - Organizing and exporting data using pandas
 
 Potential future directions include:
--Automating batch exports 
--Automating data cleaning or data validation steps
+- Automating batch exports 
+- Automating data cleaning or data validation steps
