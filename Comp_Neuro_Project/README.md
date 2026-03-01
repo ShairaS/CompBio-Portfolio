@@ -17,7 +17,7 @@ The heatmap shows pairwise correlations between brain regions. Regions with stro
 This analysis provides a simple example of how resting-state fMRI data can be used to explore functional relationships between brain regions. 
 
 Future Directions:
-- Completing pre-processing steps
+- Completing pre-processing steps (e.g. smoothing, spatial normalization, motion correction)
 - Working with multiple participants' fMRI data to complete group-level analysis
 - Comparing resting-state and task-based fMRI data
 
