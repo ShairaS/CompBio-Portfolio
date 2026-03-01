@@ -13,6 +13,7 @@ Methods used (pipeline steps):
 - Visualize correlation matrix using a heatmap. Warmer colours indicate positive correlations and cooler colours indicate negative correlations.
 
 Interpretation of Results:
+
 The heatmap shows pairwise correlations between brain regions. Regions with strong positive correlations tend to have BOLD signals that rise and fall together over time. Negative correlations suggest opposite patterns of activity.
 This analysis provides a simple example of how resting-state fMRI data can be used to explore functional relationships between brain regions. 
 
